@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Eksperimen_SML_Mansur/Membangun_model/mlruns/512469580642543646/649efdda0a274f429c033652d73d155d/artifacts
+end_time: 1763130263862
+entry_point_name: ''
+experiment_id: '512469580642543646'
+lifecycle_stage: active
+run_id: 649efdda0a274f429c033652d73d155d
+run_name: LogReg_Tuning
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763130219114
+status: 3
+tags: []
+user_id: Windows 11

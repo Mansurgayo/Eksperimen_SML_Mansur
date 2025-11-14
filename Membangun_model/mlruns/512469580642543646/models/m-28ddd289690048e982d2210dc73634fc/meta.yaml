@@ -1,0 +1,10 @@
+artifact_location: file:///E:/Eksperimen_SML_Mansur/Membangun_model/mlruns/512469580642543646/models/m-28ddd289690048e982d2210dc73634fc/artifacts
+creation_timestamp: 1763130227881
+experiment_id: '512469580642543646'
+last_updated_timestamp: 1763130243742
+model_id: m-28ddd289690048e982d2210dc73634fc
+model_type: null
+name: model
+source_run_id: 649efdda0a274f429c033652d73d155d
+status: 2
+status_message: null

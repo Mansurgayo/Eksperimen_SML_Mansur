@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Eksperimen_SML_Mansur/Membangun_model/mlruns/512469580642543646/c200db383efd4ea1bc2c7020c07f167b/artifacts
+end_time: 1763132313748
+entry_point_name: ''
+experiment_id: '512469580642543646'
+lifecycle_stage: active
+run_id: c200db383efd4ea1bc2c7020c07f167b
+run_name: classy-cow-404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763132272463
+status: 3
+tags: []
+user_id: Windows 11

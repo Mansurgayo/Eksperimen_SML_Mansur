@@ -1,0 +1,10 @@
+artifact_location: file:///E:/Eksperimen_SML_Mansur/Membangun_model/mlruns/512469580642543646/models/m-d7da20172c0f40be9834f4db9f00ed14/artifacts
+creation_timestamp: 1763131429081
+experiment_id: '512469580642543646'
+last_updated_timestamp: 1763131436793
+model_id: m-d7da20172c0f40be9834f4db9f00ed14
+model_type: null
+name: best_estimator
+source_run_id: 40b206173f624bf6977c320dcbfeb659
+status: 2
+status_message: null
