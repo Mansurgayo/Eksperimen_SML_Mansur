@@ -18,8 +18,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, confusion_matrix, ConfusionMatrixDisplay
 
 # === 1. Setup MLflow untuk DagsHub (ADVANCED) ===
-# Ganti dengan URL DagsHub Anda
-DAGSHUB_URI = "https://dagshub.com/NAMA_USER_DAGSHUB/NAMA_REPO_DAGSHUB.mlflow"
+DAGSHUB_URI = "https://dagshub.com/Mansurgayo/Eksperimen_SML_Mansur.mlflow"
 mlflow.set_tracking_uri(DAGSHUB_URI)
 mlflow.set_experiment("Eksperimen_Tuning_Advanced")
 
@@ -106,7 +105,7 @@ with mlflow.start_run(run_name="LogReg_Advanced_DagsHub"):
     # Log metrik utama
     mlflow.log_metric("accuracy", acc)
     mlflow.log_metric("f1_score", f1)
-    mlflow.log_metric("best_cv_score (f1)", grid.best_score_)
+    mlflow.log_metric("best_cv_score_f1", grid.best_score_)
     
     # Log metrik tambahan
     mlflow.log_metric("precision", precision)
